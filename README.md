@@ -46,8 +46,9 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-eCONSTRUCTION will make managing your construction projects on multiple sites a piece of cake. Using eCONSTRUCTION, you can manage all workers working on your projects. Keep track of their working hours, needed materials, and payment amounts and dates.
-In addition, divide the long process of land development into simple tasks with clear deadlines and needed utilities. Moreover, view all due tasks on a clear modern-looking calendar.
+eCONSTRUCTION will make managing your construction projects on multiple sites a piece of cake. <br>
+Using eCONSTRUCTION, you can manage all workers working on your projects. You'll be able to keep track of their working hours, needed materials, and payment amounts and dates.
+In addition, you'll be able to divide the long process of land development into simple tasks with clear deadlines and needed utilities. Moreover, eCONSTRUCTION has all your due tasks visible on a clear modern-looking calendar.
 
 ### Built With
 
